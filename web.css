@@ -32,28 +32,6 @@ body {
     margin-top: 1px;
 }
 
-#equipe {
-    margin-bottom: 5px;
-}
-
-.integrantes {
-    display: block;
-    position: absolute;
-    margin: 40px;
-    top: 10;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    font-family: Verdana, sans-serif;
-    text-align: center;
-    background-color: #7fc5c9;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding: 20px;
-    color: white;
-    list-style: none;
-}
-
 canvas {
     display: block;
     position: absolute;
