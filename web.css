@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    height: 100%;
+}
+body {
+    background: -webkit-linear-gradient(top, #7fc5c9, #deabbe);
+    text-align: center;
+}
+.grupo {
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.pontuacao {
+    font-family: verdana;
+    font-size: 20px;
+    position: relative;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.score {
+    font-family: verdana;
+    font-size: 5em;
+    position: relative;
+    color: #fff;
+    margin-top: 1px;
+}
+canvas {
+    display: block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
